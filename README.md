@@ -1,3 +1,5 @@
+https://twitter.com/silennai/status/1666838148725219329
+
 ## Running the Project Locally
 
 This document will guide you through the process of setting up and running this Next.js project on your local machine.
